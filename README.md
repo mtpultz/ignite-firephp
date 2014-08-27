@@ -1,9 +1,9 @@
 # Ignite Firephp
------------------------
+
 > CodeIgniter FirePHP third party package with helper class for outtputting PHP debug information to your browser console.
 
 ##Table of Contents
------------------------
+
 [TOC]
 
 > NOTE: the hope being that one day soon I'll log on, and this will actually be a table of contents.
