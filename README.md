@@ -13,10 +13,14 @@
 
 This document quickly outlines how to get your development environment up and running using [FirePHP](http://www.firephp.org/) in [CodeIgniter](https://ellislab.com/codeigniter) for [Google Chrome](https://www.google.ca/chrome/) and [Firefox](https://www.mozilla.org/en-US/firefox/new/).
 
-## Installaltion
+## Installation
 -----------------------
 
 Move the firephp folder from within the distribution folder into your CodeIgniter application's third party folder, manually or using your favourite package manager, for example [Bower](http://bower.io/).
+
+```js
+bower install ignite-firephp
+```
 
 ### CodeIgniter
 
