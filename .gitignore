@@ -1,0 +1,23 @@
+# npmignore object and the gitignore object kept for convenience
+# in the same file to keep the two "igmore" files in sync.
+
+ignore:
+# dotfiles
+'*.sublime-*'
+'*.rar'
+'*.tar'
+'*.zip'
+
+# folders
+node_modules
+bower_components
+vendors
+temp
+tmp
+.sass-cache
+
+# logs
+npm-debug.log
+
+# Always-ignore files
+TODO.md

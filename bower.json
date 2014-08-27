@@ -1,0 +1,42 @@
+{
+  "name": "ignite-firephp",
+  "version": "0.1.0",
+  "description": "CodeIgniter FirePHP Third Party Package with Helper Class",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mtpultz/ignite-firephp.git"
+  },
+  "main": [
+    "dist/firephp/libraries/fb.php",
+    "dist/firephp/libraries/FirePHP.class.php",
+    "dist/firephp/helpers/fb_helper.php"
+  ],
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    ".jshintrc",
+    "**/*.txt",
+    "**/*.md"
+  ],
+  "keywords": [
+    "CodeIgniter",
+    "FirePHP",
+    "PHP",
+    "back-end",
+    "debugging"
+  ],
+  "authors": [
+    {
+      "company": "Onload Solutions",
+      "name": "Martin Pultz",
+      "email": "martin@onloadsolutions.com",
+      "homepage": "http://onloadsolutions.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mtpultz/ignite-firephp.git",
+  "private": true,
+  "dependencies": {
+    "firephp": "https://github.com/firephp/firephp-core.git"
+  }
+}

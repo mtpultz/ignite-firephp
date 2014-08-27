@@ -1,0 +1,5 @@
+{
+  "interactive": false,
+  "directory": "vendors",
+  "json": "bower.json"
+}
