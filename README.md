@@ -6,7 +6,7 @@
 -----------------------
 [TOC]
 
-> NOTE: the hope being that one day soon I'll log on and this will actually be a table of contents
+> NOTE: the hope being that one day soon I'll log on, and this will actually be a table of contents.
 
 ## Getting Started
 -----------------------
