@@ -14,7 +14,7 @@ This document quickly outlines how to get your development environment up and ru
 
 ## Installation
 
-Move the firephp folder from within the distribution folder into your CodeIgniter application's third party folder, manually or using your favourite package manager, for example [Bower](http://bower.io/).
+Move the firephp folder from within the distribution folder into your CodeIgniter application's third party folder, manually (boring) or using your favourite package manager, for example [Bower](http://bower.io/).
 
 ```js
 bower install ignite-firephp
