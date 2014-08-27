@@ -9,12 +9,10 @@
 > NOTE: the hope being that one day soon I'll log on, and this will actually be a table of contents.
 
 ## Getting Started
------------------------
 
 This document quickly outlines how to get your development environment up and running using [FirePHP](http://www.firephp.org/) in [CodeIgniter](https://ellislab.com/codeigniter) for [Google Chrome](https://www.google.ca/chrome/) and [Firefox](https://www.mozilla.org/en-US/firefox/new/).
 
 ## Installation
------------------------
 
 Move the firephp folder from within the distribution folder into your CodeIgniter application's third party folder, manually or using your favourite package manager, for example [Bower](http://bower.io/).
 
@@ -39,7 +37,6 @@ $autoload['helper'] = array('fb');
 ```
 
 ### Browser
------------------------
 
 #### [Chrome](https://www.google.ca/chrome/)
 
@@ -50,7 +47,6 @@ To use FirePHP in Google Chrome the best solution is [FirePHP4Chrome](https://ch
 To use FirePHP in FireFox, simply install the [FireBug](http://getfirebug.com/) and [FirePHP](http://www.firephp.org/) plugins.
 
 ## Usage
------------------------
 
 The standard [FirePHP API](http://www.firephp.org/HQ/Use.htm) has been wrapped in a few convenient PHP function for consumption in your CodeIgniter application, and your debugging pleasure.
 
@@ -80,6 +76,5 @@ fphp_trace( string label )
 > Backtrace indicating execution path to point at which trace is triggered.
 
 ## Suggestions or Comments?
------------------------
 
 Anything to add?  Any suggestions or comments are always welcome.
